@@ -1,3 +1,10 @@
 # Ignore the following
 
 SecuritySystemAPI/packages/*
+
+SecuritySystemAPI/SecuritySystemAPI/Properties/*
+SecuritySystemAPI/SecuritySystemAPI/bin/*
+SecuritySystemAPI/SecuritySystemAPI/obj/*
+SecuritySystemAPI/SecuritySystemAPI/Web.config
+SecuritySystemAPI/SecuritySystemAPI/Web.Debug.config
+SecuritySystemAPI/SecuritySystemAPI/Web.Release.config
