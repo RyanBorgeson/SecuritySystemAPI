@@ -61,3 +61,5 @@ C:\Users\Ryan\Documents\School\EGR\EGR 326 Design Project\SecuritySystemAPI\Secu
 C:\Users\Ryan\Documents\School\EGR\EGR 326 Design Project\SecuritySystemAPI\SecuritySystemAPI\SecuritySystemAPI\obj\Debug\SecuritySystemAPI.csprojResolveAssemblyReference.cache
 C:\Users\Ryan\Documents\School\EGR\EGR 326 Design Project\SecuritySystemAPI\SecuritySystemAPI\SecuritySystemAPI\obj\Debug\SecuritySystemAPI.dll
 C:\Users\Ryan\Documents\School\EGR\EGR 326 Design Project\SecuritySystemAPI\SecuritySystemAPI\SecuritySystemAPI\obj\Debug\SecuritySystemAPI.pdb
+C:\Users\Ryan\Documents\School\EGR\EGR 326 Design Project\SecuritySystemAPI\SecuritySystemAPI\SecuritySystemAPI\obj\Debug\SecuritySystemAPI.Migrations.Addedsensordatatable.resources
+C:\Users\Ryan\Documents\School\EGR\EGR 326 Design Project\SecuritySystemAPI\SecuritySystemAPI\SecuritySystemAPI\obj\Debug\SecuritySystemAPI.csproj.GenerateResource.Cache

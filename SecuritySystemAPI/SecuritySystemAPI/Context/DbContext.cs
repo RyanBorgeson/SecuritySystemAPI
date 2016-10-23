@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SecuritySystemAPI.Models;
+using System;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
@@ -12,9 +13,12 @@ namespace SecuritySystemAPI.Context
             : base("DefaultConnection")
         { }
         
+
         public static ApplicationDbContext Create()
         {
             return new ApplicationDbContext();
         }
+
+        public DbSet<SensorData> SensorData { get; set; }
     }
 }
